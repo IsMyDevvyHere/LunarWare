@@ -1,1 +1,1 @@
-# LunarWare
+Open LunarClient.exe
